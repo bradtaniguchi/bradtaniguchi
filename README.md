@@ -1,14 +1,16 @@
 # bradtaniguchi
 
 Socials:
-[github](https://github.com/bradtaniguchi)
-[linkedin](https://www.linkedin.com/in/bradley-taniguchi-62a052104/)
-[twitter](https://twitter.com/brad_taniguchi)
-[freeCodeCamp](https://www.freecodecamp.org/bradtaniguchi)
-[npm](https://www.npmjs.com/~bradtaniguchi)
+
+- [github](https://github.com/bradtaniguchi)
+- [linkedin](https://www.linkedin.com/in/bradley-taniguchi-62a052104/)
+- [twitter](https://twitter.com/brad_taniguchi)
+- [freeCodeCamp](https://www.freecodecamp.org/bradtaniguchi)
+- [npm](https://www.npmjs.com/~bradtaniguchi)
 
 
 Website/portfolio:
+
 https://bradtaniguchi.dev/
 
 
