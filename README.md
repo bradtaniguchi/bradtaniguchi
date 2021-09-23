@@ -16,10 +16,11 @@ https://bradtaniguchi.dev/
 
 ## About Me
 
-Hi, I'm a software engineer currently working with full-stack TypeScrpt web development. I like learning new things of all kinds, from software, to life, to wisdom.
+Hi, I love learning new things, challenges, and believe in the value of hard work and doing things right.
+I am a software engineer currently doing full stack TypeScript web development primarily with the MEAN stack backed by GCP. 
+
+In my own time I love learning new things about technology, software development, automation. Outside of tech I like reading Sci-Fi, modern-space technologies, and learning new things.
 
 Checkout some of the projects pinned below for some of the "cooler" stuff I've done thats in public repos.
-
-I also have a website/portfolio I'm finally getting around to building. Check that out for more in-depth stuff, but don't mind the dust as its constantly evolving :D
 
 Stay safe, keep learning, keep building 👍
