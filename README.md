@@ -22,5 +22,6 @@ In my own time I love learning new things about technology, software development
 Checkout some of the projects pinned below for some of the "cooler" stuff I've done thats in public repos, otherwise there's plenty of older unfinished work in my other repos, but odds are they are unfinished!
 
 Lately (as of 2026) I've been playing around with AI so hoping to get some of these projects finished with some agentic help, latest focus is on minizming cost and improving consistency with AI tools, and integrating it into my love of automation. Looking forward to it!
+Checkout my ai-optimisations list of stars [here](https://github.com/stars/bradtaniguchi/lists/ai-optimization) for AI tools/plugins that I've been looking into to save on token costs. AI isn't cheap!
 
 Keep learning, keep building and keep asking questions! 👍
