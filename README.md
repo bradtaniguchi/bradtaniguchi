@@ -12,6 +12,11 @@ Website/blog (always a work in progress):
 
 [https://bradtaniguchi.dev/](https://bradtaniguchi.dev/)
 
+My older "portfolio/blog" site, which was deployed and thus manages all my github page front-end only apps:
+[https://bradtaniguchi.github.io](https://bradtaniguchi.github.io)
+
+I might be behind on some of my repos not working if they were github pages based, and assumed the ".dev" domain was still served from there.
+
 
 ## About Me
 
